@@ -282,7 +282,7 @@ gemini-realtime-api/
 
 ### 🚀 Powered By
 
-[![apift](https://img.shields.io/badge/%40apift-API%20Partner-7b2ff7?style=for-the-badge&logo=telegram)](https://t.me/apift)
+[![apift](https://img.shields.io/badge/%40apift-API%20Factory-7b2ff7?style=for-the-badge&logo=telegram)](https://t.me/apift)
 
 <br>
 
