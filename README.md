@@ -199,28 +199,18 @@ This is an unofficial implementation and is not affiliated with Google.
 
 <div align="center">
 
-## 💙 Developed By @bizft
+<a href="https://t.me/apift">
+  <img src="https://img.shields.io/badge/Telegram-@apift-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-### 🚀 Powered By @apift
+<br><br>
 
-</div>
+<a href="https://t.me/bizft">
+  <img src="https://img.shields.io/badge/Telegram-@bizft-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-# ⭐ Support
-
-If you like this project:
-
-🌟 Star This Repository  
-🍴 Fork This Project  
-📢 Share With Friends  
-
----
-
-<div align="center">
-
-# 💙 Thanks For Visiting
-
-### Made With Love & Python 🐍
+### 💙 Developed With Love By @bizft
 
 </div>
