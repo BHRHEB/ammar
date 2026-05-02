@@ -202,15 +202,10 @@ This is an unofficial implementation and is not affiliated with Google.
 <a href="https://t.me/apift">
   <img src="https://img.shields.io/badge/Telegram-@apift-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
-<br><br>
-
 <a href="https://t.me/bizft">
   <img src="https://img.shields.io/badge/Telegram-@bizft-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
-<br><br>
-
+<br>
 ### 💙 Developed With Love By @bizft
 
 </div>
