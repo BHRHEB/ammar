@@ -377,25 +377,31 @@ def chat_with_gemini(prompt):
 @app.route('/')
 def home():
     return jsonify({
-        'success': True,
-        'message': 'Gemini AI API is running!',
-        'api_dev': '@bizft',
-        'endpoints': {
-            '/api/ask': {
-                'method': 'GET',
-                'parameters': {
-                    'prompt': 'Your question or message (required)'
-                },
-                'example': '/api/ask?prompt=Hello, how are you?'
-            }
-        },
-        'documentation': {
-            'description': 'Google Gemini Realtime AI',
-            'version': '1.0.0',
-            'github': 'https://github.com/mkhossainx'
+        
+    "status": "success",
+    "message": "Gemini API is running!",
+    "developer": "@AmmarDevx",
+    "api": {
+        "name": "Google Gemini Api",
+        "version": "1.0.0"
+    },
+    "endpoints": [
+        {
+            "path": "/api/ask",
+            "method": "GET",
+            "description": "Ask anything to Gemini AI",
+            "parameters": [
+                {
+                    "name": "prompt",
+                    "type": "string",
+                    "required": True,
+                    "description": "Your question or message"
+                }
+            ],
+            "example": "/api/ask?prompt=Hello, how are you?"
         }
-    })
-
+    ]
+})
 @app.route('/api/ask', methods=['GET'])
 def ask_gemini():
     prompt = request.args.get('prompt')
@@ -404,7 +410,7 @@ def ask_gemini():
         return jsonify({
             'success': False,
             'error': 'Missing required parameter: prompt',
-            'api_dev': '@bizft',
+            'api_dev': '@AmmarDevx',
             'usage': {
                 'endpoint': '/api/ask',
                 'method': 'GET',
@@ -419,7 +425,7 @@ def ask_gemini():
         return jsonify({
             'success': False,
             'error': 'Prompt cannot be empty',
-            'api_dev': '@bizft'
+            'api_dev': '@bAmmarDevx'
         }), 400
     
     result = chat_with_gemini(prompt)
