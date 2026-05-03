@@ -425,12 +425,12 @@ def ask_gemini():
         return jsonify({
             'success': False,
             'error': 'Prompt cannot be empty',
-            'api_dev': '@bAmmarDevx'
+            'api_dev': '@AmmarDevx'
         }), 400
     
     result = chat_with_gemini(prompt)
     
-    result['api_dev'] = '@bizft'
+    result['api_dev'] = '@AmmarDevx'
     result['prompt'] = prompt
     
     if result['success']:
