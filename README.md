@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2ff7&height=200&section=header&text=Gemini%20Realtime%20AI%20API&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ultra%20Fast%20%E2%80%A2%20Realtime%20%E2%80%A2%20Developer%20Friendly&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2ff7&height=200&section=header&text=Ammar%20Realtime%20AI%20API&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ultra%20Fast%20%E2%80%A2%20Realtime%20%E2%80%A2%20Developer%20Friendly&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br>
 
@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/API-Online%20%E2%9C%85-00C853?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-FF6F00?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v1.0-7B2FF7?style=for-the-badge)
-![Dev](https://img.shields.io/badge/Dev-%40bizft-00f7ff?style=for-the-badge)
+![Dev](https://img.shields.io/badge/Dev-%40Ammar-00f7ff?style=for-the-badge)
 
 <br>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-**Gemini Realtime AI API** is a fast, lightweight unofficial Google Gemini wrapper built on **Flask**.  
+**Ammar Realtime AI API** is a fast, lightweight unofficial Google Gemini wrapper built on **Flask**.  
 It reverse-engineers Gemini's web interface to deliver real-time AI responses in clean JSON — **zero API key required.**
 
 Perfect for Telegram bots, automation tools, Discord bots, web apps, and anything that needs AI responses instantly.
@@ -132,7 +132,7 @@ https://mkworld.eu.org/api/ask?prompt=Tell me a joke
     "character_count": 68,
     "word_count": 14
   },
-  "api_dev": "@bizft"
+  "api_dev": "@Ammar"
 }
 ```
 
@@ -141,7 +141,7 @@ https://mkworld.eu.org/api/ask?prompt=Tell me a joke
 {
   "success": false,
   "error": "Missing required parameter: prompt",
-  "api_dev": "@bizft"
+  "api_dev": "@Ammar"
 }
 ```
 
@@ -278,7 +278,7 @@ gemini-realtime-api/
 
 ### 💙 Developed By
 
-[![bizft](https://img.shields.io/badge/%40bizft-Developer-00f7ff?style=for-the-badge&logo=telegram)](https://github.com/mkhossainx)
+[![Ammar](https://img.shields.io/badge/%40Ammar-Developer-00f7ff?style=for-the-badge&logo=telegram)](https://github.com/mkhossainx)
 
 ### 🚀 Powered By
 
@@ -298,6 +298,6 @@ gemini-realtime-api/
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f7ff&height=120&section=footer&text=Made%20with%20%F0%9F%92%99%20%26%20Python&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f7ff&height=120&section=footer&text=Made%20with%20%F0%9F%92%99%20%26%20Python%20by%20Ammar&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
